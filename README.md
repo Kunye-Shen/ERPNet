@@ -1,5 +1,5 @@
 # ERPNet (TCYB 2022)
-'[Edge-guided Recurrent Positioning Network for Salient Object Detection in Optical Remote Sensing Images]', [Xiaofei Zhou](https://scholar.google.com.hk/citations?hl=zh-CN&user=2PUAFW8AAAAJ), [Kunye Shen](https://scholar.google.com.hk/citations?hl=zh-CN&user=q6_PkywAAAAJ), Li Weng, Runmin Cong, Bolun Zheng, Jiyong Zhang, and Chenggang Yan.
+Edge-guided Recurrent Positioning Network for Salient Object Detection in Optical Remote Sensing Images, [Xiaofei Zhou](https://scholar.google.com.hk/citations?hl=zh-CN&user=2PUAFW8AAAAJ), [Kunye Shen](https://scholar.google.com.hk/citations?hl=zh-CN&user=q6_PkywAAAAJ), Li Weng, Runmin Cong, Bolun Zheng, Jiyong Zhang, and Chenggang Yan.
 
 ## Required libraries
 

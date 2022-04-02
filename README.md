@@ -18,10 +18,10 @@ https://github.com/Kunye-Shen/ERPNet.git
 We also provide the predicted saliency maps ([GoogleDrive](https://drive.google.com/drive/folders/1KV0DOnu_u6GlRT8qRfYc5ZC46RR5RQbI?usp=sharing) or [baidu](https://pan.baidu.com/s/1l3idpr-RGFz6KIVqBHKsHQ) extraction code: 8z2p.)
 
 ## Architecture
-![ERPNet architecture](figures/architecture.png)
+![ERPNet architecture](figures/architecture.jpg)
 
 ## Quantitative Comparison
-![Quantitative Comparison](figures/quan.png)
+![Quantitative Comparison](figures/quan.jpg)
 
 ## Qualitative Comparison
 ![Qualitative Comparison](figures/qual.png)

@@ -15,7 +15,10 @@ glob
 ```
 https://github.com/Kunye-Shen/ERPNet.git
 ```
-We also provide the predicted saliency maps ([GoogleDrive](https://drive.google.com/drive/folders/1KV0DOnu_u6GlRT8qRfYc5ZC46RR5RQbI?usp=sharing) or [baidu](https://pan.baidu.com/s/1l3idpr-RGFz6KIVqBHKsHQ) extraction code: 8z2p.)
+2. We also provide the predicted saliency maps ([GoogleDrive](https://drive.google.com/drive/folders/1KV0DOnu_u6GlRT8qRfYc5ZC46RR5RQbI?usp=sharing) or [baidu](https://pan.baidu.com/s/1l3idpr-RGFz6KIVqBHKsHQ) extraction code: 8z2p.). You can download directly through the above methods, or contact us through the following email.
+```
+KunyeShen@outlook.com
+```
 
 ## Architecture
 ![ERPNet architecture](figures/architecture.jpg)
